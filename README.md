@@ -1,2 +1,2 @@
 # Slider
-Slider made using html, css, jquery
+Basic slider made using html, css, jquery. For studying purposes :)
